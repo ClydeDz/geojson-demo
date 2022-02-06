@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "locations-of-interest",
+"features": [
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [125.6, 10.1]
+    },
+    "properties": {
+      "name": "Dinagat Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [135.6, 20.1]
+    },
+    "properties": {
+      "name": "Two Islands"
+    }
+  }
+]
+}
