@@ -1,13 +1,16 @@
 {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [125.6, 10.1]
-  },
-  "properties": {
-    "name": "Dinagat Islands",
-    "marker-color": "#7e7e7e",
-    "marker-size": "medium",
-    "marker-symbol": ""
-  }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77809309959412,
+          -41.285264253328606
+        ]
+      }
+    }
+  ]
 }
